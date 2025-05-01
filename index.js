@@ -28,7 +28,7 @@ window.onload = function() {
   
       const label = document.createElement('span');
       label.className = 'content-label';
-      label.textContent = 'くろかわこうへい';
+      label.textContent = 'テストユーザ';
   
       profileRow.appendChild(profileImg);
       profileRow.appendChild(label);
